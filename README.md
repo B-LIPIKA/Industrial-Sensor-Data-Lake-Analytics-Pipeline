@@ -69,7 +69,7 @@ Industrial-Sensor-Data-Lake-Analytics-Pipeline/
 ### 1. Clone & Set Up Environment
 
 ```bash
-git clone https://github.com/your-username/Industrial-Sensor-Data-Lake-Analytics-Pipeline.git
+git clone https://github.com/B-LIPIKA/Industrial-Sensor-Data-Lake-Analytics-Pipeline.git
 cd Industrial-Sensor-Data-Lake-Analytics-Pipeline
 
 # Create virtual environment
